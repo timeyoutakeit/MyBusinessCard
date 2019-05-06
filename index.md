@@ -1,6 +1,4 @@
-![image of me](media/amy.png)
-
-### Amy Burns – Program Manager II for [Visual Studio for Mac](aka.ms/vsmac).
+### Program Manager II for [Visual Studio for Mac](aka.ms/vsmac).
 * Focused primarily on the install, first run, and updating experience.
 * Manages and writes content for [Visual Studio for Mac documentation](aka.ms/vsmac-docs)
 
@@ -17,7 +15,7 @@ Located in Cambridge, MA.
 
 ![github logo](media/github.png) [asb3993](https://github.com/asb3993)
 
-# Important Links
+# Helpful Links
 
 - [Download Visual Studio 2019 for Mac](https://visualstudio.microsoft.com/vs/mac/)
 - [Read Visual Studio for Mac documentation](https://docs.microsoft.com/visualstudio/mac)
