@@ -1,6 +1,6 @@
 ## Program Manager II for [Visual Studio for Mac](aka.ms/vsmac).
 * Focused primarily on the install, first run, and updating experience.
-* Manages and writes content for [Visual Studio for Mac documentation](aka.ms/vsmac-docs)
+* Manages and writes content for [Visual Studio for Mac documentation](https://aka.ms/vsmac-docs)
 
 Located in Cambridge, MA.
 
