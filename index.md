@@ -1,4 +1,4 @@
-![image of me](media/amy.jpg)
+![image of me](media/amy.png)
 
 ### Amy Burns – Program Manager II for [Visual Studio for Mac](aka.ms/vsmac).
 * Focused primarily on the install, first run, and updating experience.
