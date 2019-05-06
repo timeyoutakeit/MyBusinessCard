@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+![image of me](media/amy.jpg)
 
-You can use the [editor on GitHub](https://github.com/asb3993/MyBusinessCard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Amy Burns – Program Manager II for [Visual Studio for Mac](aka.ms/vsmac).
+* Focused primarily on the install, first run, and updating experience.
+* Manages and writes content for [Visual Studio for Mac documentation](aka.ms/vsmac-docs)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Located in Cambridge, MA.
 
-### Markdown
+# Talk to me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Schedule a time to talk:
+- Email: amy.amy@microsoft.com
 
-```markdown
-Syntax highlighted code block
+## Social Media
 
-# Header 1
-## Header 2
-### Header 3
+![twitter logo](media/twitter.png) [@timeyoutakeit](https://twitter.com/timeyoutakeit)
 
-- Bulleted
-- List
+![github logo](media/github.png) [asb3993](https://github.com/asb3993)
 
-1. Numbered
-2. List
+# Important Links
 
-**Bold** and _Italic_ and `Code` text
+- [Download Visual Studio 2019 for Mac](https://visualstudio.microsoft.com/vs/mac/)
+- [Read Visual Studio for Mac documentation](https://docs.microsoft.com/visualstudio/mac)
+- [File a bug or suggestion](https://developercommunity.visualstudio.com/spaces/41/index.html)
+- [Visual Studio for Mac Roadmap](https://docs.microsoft.com/visualstudio/productinfo/mac-roadmap)
+- [Release Notes](https://docs.microsoft.com/visualstudio/releasenotes/vs2019-mac-relnotes)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asb3993/MyBusinessCard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Icons by Icons8](https://icons8.com/)
