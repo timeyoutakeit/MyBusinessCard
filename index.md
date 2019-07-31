@@ -6,7 +6,7 @@ Located in Cambridge, MA.
 
 ## Talk to me!
 
-- Schedule a time to talk:
+- [Schedule a time to talk](https://outlook.office365.com/owa/calendar/Amy@microsoft.onmicrosoft.com/bookings/)
 - Email: amy.amy@microsoft.com
 
 ## Social Media
